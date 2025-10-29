@@ -1,4 +1,11 @@
 body{
-    background-color: rgb(36, 155, 12);
+    background-color: rgb(216, 211, 207);
     font-family: Zalando Sans;
+}
+header{
+    font-size: 50px;
+    text-align: center;
+    background-color:black ;
+    color:aliceblue ;
+boarder:
 }
